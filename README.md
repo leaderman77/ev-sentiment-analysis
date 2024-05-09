@@ -1,6 +1,4 @@
-# ev-sentiment-analysis
-Electric Vehicles Sentiment Analysis
-## Project Title: Electric Vehicle Sentiment Analysis Using LDA and VADER
+# Project Title: Electric Vehicle Sentiment Analysis Using LDA and VADER
 ## Objective: Analyze public opinions on Tesla Model 3 and Nissan Leaf using advanced text mining techniques to understand consumer perceptions and industry trends.
 ## Technologies Used:
 - Python: For scripting and automation of data processing tasks.
